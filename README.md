@@ -11,8 +11,6 @@ Tecnologias utilizadas:
 <b>Aula 02 - Do Figma ao React, criando o projeto</b>
 </br>Exportando os tokens e componentes do Figma para o código, criando a base do projeto em React e a documentação utilizando Storybook.
 
-Ps: Para rodar e visualizar o Storybook use <b>npm run storybook</b>
-
 <b>Aula 03 | Testando e automatizando</b>
 </br>Criando testes automatizados para o Design System e simulando interações do usuário.
 
